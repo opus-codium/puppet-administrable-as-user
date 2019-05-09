@@ -1,0 +1,7 @@
+---
+administrators:
+  johndoe:
+    shell: '/bin/zsh'
+    ssh_keys:
+      - 'ssh-rsa RSA_PUBLIC_KEY john@supercomputer.example.com'
+      - 'ssh-ed25519 ED25519_PUBLIC_KEY jdoe@anywhere'
